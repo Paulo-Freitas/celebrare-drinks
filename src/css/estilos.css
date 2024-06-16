@@ -1,10 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap%22');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
 
 body{
     background: linear-gradient(#000000,#0d039e);
     min-height: 150%;
    
-    font-family: "Kumbh Sand", sans-serif;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
     color: #ffffff;
     font-size: 18px;
     display: flex;
@@ -35,16 +37,16 @@ body{
 .cartao .minhas-informacoes img{
     width: 96px;
     height: 96px;
-    border-radius: 20px;
+    border-radius: 35px;
     border: 3px solid #ffffff;
 }
 
 .cartao .minhas-informacoes .nome{
-    font-size: 26px;
+    font-size: 40px;
 }
 
 .cartao .minhas-informacoes .endereco{
-    font-size: 20px;
+    font-size: 25px;
     color: #ffffff;
 }
 
@@ -101,7 +103,7 @@ body{
 }
 
 .informacoes-abas .sub-titulo{
-    font-size: 22px;
+    font-size: 30px;
     margin-bottom: 25px;
     text-align: center;
 }
